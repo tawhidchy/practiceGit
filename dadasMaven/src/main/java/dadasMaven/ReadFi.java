@@ -16,6 +16,7 @@ public class ReadFi {
 	}
 
 	public static void readxls() throws IOException {
+		System.out.println("chudurBudur");
 
 		String file = "data/Sample.xls";
 
